@@ -1,0 +1,36 @@
+body {
+  
+    background-color: blanchedalmond;
+}
+h1 {text-decoration: none;
+    color: darkgreen;
+    text-align: center;
+    font-family: league spartan;
+    padding-top: 85px;
+    font-size: 36px;
+    font-weight: 50;
+}
+
+h2 {text-align: center;
+font-family: monospace}
+
+#fotos {
+    width: 1000px;
+    margin-top: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 270vh;
+}
+
+img {
+    width:300px;
+    height:300px;
+}
+
+
+.grayscale {filter: grayscale(100%);}
+
+a:hover { filter:none;}
+#sinfiltro:hover {filter: none}
+  
+ 
