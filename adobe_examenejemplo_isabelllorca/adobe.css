@@ -1,0 +1,80 @@
+
+body {
+    background-image: url(fondoadobe.jpg);
+    background-size: cover;
+    position:fixed;
+    }
+
+header #logo {
+    position: fixed;
+    top: 10;
+    left: 60px;
+}
+
+header nav {
+    position: fixed;
+    padding-top: 10px;
+    top: 100;
+    right: 50px;
+    background-color: darkgrey;
+    
+}
+
+
+nav li {
+    display: inline-block;    
+    width: 20ex;
+    text-transform: uppercase;
+    font-family: monospace;
+    
+    }
+
+
+main #texto {
+    padding-top: 300px;
+    padding-left:60px;
+}
+
+
+
+main #capsula {
+    background-color: aqua;
+    padding-left: 0px;
+    
+}
+
+main #cosmos {
+    padding-left: 1000px;
+}
+
+main #linea {
+  border-top-style: hidden;
+  border-right-style: hidden;
+  border-bottom-style: solid;
+  border-left-style: hidden;}
+
+
+#bom {
+    
+    background-image: url(barra.png);
+    width: 2000px;
+      
+}
+
+
+footer {background-color: black;
+  padding: 50px;
+  text-align: left;
+  color: white;
+    
+    
+}
+ 
+.fila {
+    display: inline-block;
+    width: 400px;
+    height: 40px;
+   
+    
+}
+
