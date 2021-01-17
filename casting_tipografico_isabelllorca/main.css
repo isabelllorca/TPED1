@@ -1,0 +1,73 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+}
+
+.basefondo {
+    width:1080px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+}
+
+.caja {
+    width: 30%;
+    height: 100px;
+    overflow: auto;
+    background-color: bisque;
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+    border-width: 3px;
+    border-style: dotted;
+    border-color: orange;
+}
+
+.fuente1 {
+    font-family: 'Anton', sans-serif;
+    font-size: 12px;
+    text-align: center;
+}
+
+.fuente2 {
+    font-family: 'Dancing Script', cursive;
+   font-size: 12px;
+    text-align: center; 
+}
+#fuente3 {
+    font-family: 'Hachi Maru Pop', cursive;
+   font-size: 12px;
+    text-align: center;
+}
+
+#fuente4 {
+    font-family: 'Imbue', serif;
+   font-size: 12px;
+    text-align: center;
+}
+
+#fuente5 {
+    font-family: 'Potta One', cursive;
+   font-size: 12px;
+    text-align: center;
+}
+
+#fuente6 {
+    font-family: 'Xanh Mono', monospace;
+   font-size: 12px;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    font-size: 200%;    
+}
+
+footer a {
+    color: red;
+}
