@@ -1,0 +1,29 @@
+div, main, nav {
+    box-sizing: border-box; 
+    background-color: lavender;
+    
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+}
+
+.container {
+    background-color: darkgrey;
+}
+
+footer
+{box-sizing: border-box;
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+background-color: pink;
+text-align: center;}
+
+header
+{box-sizing: border-box;
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+background-color: orange;}
+
+#color {background-color: antiquewhite;}
