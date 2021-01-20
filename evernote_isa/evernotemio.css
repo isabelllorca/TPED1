@@ -1,0 +1,31 @@
+div, main, nav {
+    box-sizing: border-box; 
+    background-color: white;
+    border-style: none;
+    border-color: black;
+    border-width: 1px;
+    text-align: left;
+    
+}
+
+card {
+    border-style: solid;
+    border-width: 1px;
+    
+}
+.container {
+    background-color: darkgrey;
+}
+
+footer
+{box-sizing: border-box;
+    border-style: none;
+    border-color: black;
+    border-width: 3px;
+background-color: white;
+text-align: center;
+padding-left: 40px;
+padding-top: 80px}
+
+
+
