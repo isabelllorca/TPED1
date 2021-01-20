@@ -1,0 +1,58 @@
+
+
+div, main, nav {
+    box-sizing: border-box; 
+    background-color: black;
+    border-style: none;
+    border-color: black;
+    border-width: 1px;
+    text-align: left;
+    color:white;
+    
+}
+ 
+
+
+h1{
+    font-family: Montserrat;
+    text-align: left;
+    font-size: 40px;
+}
+h2 {font-family: Montserrat
+;
+    text-align: left;
+    font-size: 10px;
+    line-height: 10;
+        color: darkgrey;}
+p{font-family: Montserrat;
+    text-align: left;
+    font-size: 12px;
+
+}
+
+ul{ list-style-type: none;
+    padding-top: 90px;
+    padding-right:1px;
+    padding-left:5px;
+    font-family: Montserrat;
+    text-align: left;
+    font-size: 10px;
+    color:darkgrey;     
+}
+
+
+
+
+a:hover {
+  color: red;
+    background-color: transparent;
+    text-decoration: underline;}
+#tachado:hover {text-decoration:line-through;
+color:red;}
+
+
+
+
+
+
+ 
